@@ -1,0 +1,37 @@
+*** 2.1
+?
+
+*** 2.2
+a)
+z.z.: Punkt x hat noch "Luft"
+Wähle x, x liegt in einem U_i und hat da auch noch "Luft"
+
+b)
+Wähle x aus dem Schnitt. In U_1 passt eine epsilon_1 Kugel, in U_2 passt eine epsilon_2
+Kugel. Wähle epsilon = min {epsilon_1, epsilon_2}. Dann ist die epsilon Kugel in U_1 und
+U_2, also auch im Schnitt.
+
+c)
+Leere Menge: All Aussage gilt immer
+R^n: Definition lässt sich leicht überprüfen
+
+Alternativ: Abgeschlosseheit zeigen, Abgeschlossen bedeutet Komplement offen
+
+TODO: prüfen
+
+*** 2.3
+a)
+siehe Forster, Normen gegeneinander abschätzen und epsilon passend wählen
+
+b)
+=>
+Folge konvergiert, Abstand kleiner epsilon, also noch in abgeschlossener Menge
+
+<=
+?
+
+*** 2.4
+?
+
+*** 2.5
+?

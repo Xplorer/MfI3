@@ -1,0 +1,14 @@
+*** 1.1
+-
+
+*** 1.2
+Abschätzen der minimalen Bogenlänge durch Gitter
+
+*** 1.3
+f und g diffbar -> Integral vom Betrag der Ableitung
+
+*** 1.4
+Umformen
+
+*** 1.5
+Fallunterscheidung, rumrechnen

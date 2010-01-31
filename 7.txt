@@ -1,0 +1,39 @@
+*** 7.1
+a)
+P(Betriebsfähig) = 0.6 * 0.8 + 0.4 * 0.7
+
+b)
+P(Ausfall) = 1 - P(Betriebsfähig)
+P(Werk2) = 0.4
+P(Werk2 | Ausfall) = ...
+
+*** 7.2
+a)
+?
+
+b)
+?
+
+c)
+?
+
+d)
+?
+
+*** 7.3
+?
+
+*** 7.4
+a)
+p = 3/20 * 2/19 * 1/18
+
+b)
+p = 3/20 + 17/20 * 3/19 + 17*20 * 16/19 * 3/18
+
+c)
+?
+
+*** 7.5
+?
+
+Mögliche Lösung: Schnittpunkte berechnen und Integrale explizit hinschreiben

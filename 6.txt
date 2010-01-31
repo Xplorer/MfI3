@@ -1,0 +1,30 @@
+*** 6.1
+Mit Induktion zeigen, dass in R^n folgendes gilt:
+V(B_r(x)) = c_n * r^n
+
+Dann
+V(B_r(0)) = 1/2 * V(B_1(0))
+ausrechnen
+
+*** 6.2
+Volumen von 2 aus VL übernehmen, Volumen von 1 und 3 z.B. mit Rotationskörpern.
+
+*** 6.3
+?
+
+*** 6.4
+a)
+Einsetzen und ausrechnen
+
+b)
+?
+
+*** 6.5
+y' erstezen durch dy/dx
+dy/dx = e^y * sin(x)
+e^(-y) dy = sin(x) dx
+-e^(-y) = -cos(x) + C
+e^(-y) = cos(x) - C
+log(e^(-y)) = log(cos(x) - C)
+-y = log(cos(x)) / log(C)
+y = -log(cos(x)) / log(C)

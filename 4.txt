@@ -1,0 +1,18 @@
+*** 4.1
+Satz über implizite Funktionen, dann?
+
+*** 4.2
+Extremwert mit Nebenbedingung. f(x, y, z) = "Abstand von (x, y, z) zu (1, 1, 1/2),
+Nebenbedingung ist g(x, y, z) = 0 mit g(x, y, z) = x² + y² - z
+
+*** 4.3
+f(x) = 0 <=> f(x) + x = x <=> g(x) := f(x) + x = 0
+f hat an der Stelle x eine Nullstelle g.d.w. g an der Stelle x einen Fixpunkt hat
+TODO: zeigen, dass g eine Kontraktion ist, Fixpunkt berechnen
+
+*** 4.4
+Wähle Funktion f mit (-1) = -1, f(1) = 1 und -1 < f(0) < 0. Dann ist f(x) eindeutig
+bestimmt und es gilt f(x) != x für alle x außer -1 und 1.
+
+*** 4.5
+Ausrechnen

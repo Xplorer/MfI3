@@ -1,0 +1,29 @@
+*** 5.1
+Genau wie im Hinweis...entweder liegt ein Extremum im Inneren oder auf dem Rand.
+TODO: Inneres bestimmen und zeigen dass es offen ist?
+
+*** 5.2
+a)
+einsetzen
+
+b)
+nach Schema
+
+c)
+Rechnen
+
+*** 5.3
+a)
+Einstezen?
+
+b)
+?
+
+c)
+Einsetzen in b)
+
+*** 5.4
+?
+
+*** 5.5
+Ausrechnen
