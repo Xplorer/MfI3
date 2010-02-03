@@ -1,0 +1,52 @@
+\documentclass{scrartcl}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts,amsmath,amssymb}
+
+\title{Lösung zu Blatt 2}
+\author{Thomas Schaub}
+
+\begin{document}
+
+\maketitle
+
+\section{Aufgabe 5}
+
+\subsection{f}
+
+$f\prime$ und $F = \int \Vert f\prime(t) \Vert \, dt$ vom letzten Blatt.
+
+\begin{align*}
+\phi(t_1) = \int_0^{t_1}  \Vert f\prime(t) \Vert \, dt = F(t_1) - F(0)
+= \sqrt{r^2 + c^2} \cdot t_1 \\
+\psi = \phi^{-1} \\
+\psi(t) = \frac{1}{\sqrt{r^2 + c^2}} \cdot t \\
+g(t) = (f \circ \psi)(t) = (
+r \cdot \cos(\frac{t}{\sqrt{r^2 + c^2}})
+r \cdot \sin(\frac{t}{\sqrt{r^2 + c^2}})
+\frac{ct}{\sqrt{r^2 + c^2}}
+)
+\end{align*}
+
+\subsection{g}
+
+\begin{align*}
+\phi(t_1) = 4R(1-\cos(\frac{t_1}{2}))
+\end{align*}
+
+Umkehren:
+
+\begin{align*}
+x = 4R(1-\cos(\frac{y}{2})) \\
+\frac{x}{4R} = 1 - \cos(\frac{y}{2}) \\
+\cos(\frac{y}{2}) = 1 - \frac{x}{4R} \\
+y = 2 \cdot \cos^{-1} (1 - \frac{x}{4R})
+\end{align*}
+
+Daraus folgt
+
+\begin{align*}
+g(t) = R(\psi(t) - \sin(\psi(t)), 1 - \cos(\psi(t)))
+\end{align*}
+
+\end{document}
